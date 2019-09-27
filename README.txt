@@ -1,2 +1,0 @@
-fisk
-test
